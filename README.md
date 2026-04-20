@@ -1,6 +1,6 @@
 # Computer Vision Lane Detection
 
-An automated pipeline to detect road lanes and classify markings (solid vs. dashed) using classical image processing. Developed by Federico Saporiti.
+An automated pipeline to detect road lanes and classify markings (solid vs. dashed) using classical image processing. Developed by Federico Saporiti, Control Systems Engineer, University of Padua.
 
 ##  How it Works
 1. **Preprocessing & Masking:** Uses Grayscale, Gaussian Blur, Canny Edge Detection, and a triangular ROI mask to isolate structural road boundaries.

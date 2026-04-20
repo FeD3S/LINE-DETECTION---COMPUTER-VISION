@@ -2,6 +2,8 @@
 
 An automated computer vision pipeline designed to detect road lanes, highlight the drivable roadway area, and classify lane markings (solid vs. dashed) in both static images and video streams using classical image processing techniques.
 
+Developed by Federico Saporiti, Control Systems Engineer, University of Padua
+
 ##  Objective
 The primary goal of this program is to extract structural road information without relying on deep learning models. By processing raw frames through a series of geometric and pixel-intensity transformations, the algorithm successfully isolates lane boundaries and interprets their marking type.
 
